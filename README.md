@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Igor 👋
 
 - 🔭 Desenvolvendo projetos pessoais
-- 🌱 Estudando linguagens para dev full stack
+- 🌱 Estudando ADS - Ulbra
 
 <div align="center">
   <a href="https://github.com/igorborges812">
