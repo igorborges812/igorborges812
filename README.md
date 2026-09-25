@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Igor 👋
 
 - 🔭 Desenvolvendo projetos pessoais
-- 🌱 Estudando ADS - Ulbra
+- 🌱 ADS - Ulbra
 
 <div align="center">
   <a href="https://github.com/igorborges812">
